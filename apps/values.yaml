@@ -1,5 +1,5 @@
 spec:
-  namespace: argocd-webhook-post-call
+  namespace: argocd-webhook-post-today
   destination:
     server: https://kubernetes.default.svc
   source:
